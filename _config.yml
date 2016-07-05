@@ -1,0 +1,14 @@
+layout_spectrum: 0.09967019315809011
+typography_spectrum: 0.8744021093007177
+color:
+  brandStrength: 0.2727774088270962
+  lightness: 0.21358205378055573
+  saturation: 0.873235055943951
+  rhythmicContrast: 0.3952948013320565
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: SunnyU
